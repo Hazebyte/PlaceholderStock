@@ -1,0 +1,6 @@
+name: PlaceholderStonk
+version: 1.0.0
+author: imWillX
+main: com.hazebyte.stock.PlaceholderPlugin
+
+depend: [PlaceholderAPI]
