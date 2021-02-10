@@ -13,8 +13,8 @@ public class PlaceholderHandler {
     // A mapping of symbol to placeholders.
     private Map<String, Placeholder> placeholders;
 
-    // 15 minutes
-    private long initialDelay = 20 * 60 * 15;
+    // 5 seconds
+    private long initialDelay = 20 * 5;
 
     // 10 seconds
     private long period = 20 * 10;
